@@ -259,8 +259,8 @@ input::-moz-placeholder {
 	flex-direction: column;
 	align-items: center;
 	position: fixed;
-	transition: 0s ease-in-out;
-	box-shadow: 0 0 10px rgb(0 0 0 / 50%);
+	transition: 300s ease-out;
+	box-shadow: 0 0 10px rgb(0 0 0 / 60%);
 	margin-bottom: calc(100vh - 688px);
 }
 
